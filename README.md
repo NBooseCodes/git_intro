@@ -1,1 +1,2 @@
-"Nicole Boose" 
+Nicole Boose
+boosen@oregonstate.edu
