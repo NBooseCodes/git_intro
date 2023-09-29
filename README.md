@@ -1,3 +1,5 @@
 Nicole Boose
 boosen@oregonstate.edu
-orange
+orange 
+27
+Miramar
